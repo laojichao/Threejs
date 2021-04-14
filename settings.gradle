@@ -1,0 +1,3 @@
+include ':threejs'
+include ':app'
+rootProject.name = "ThreeJsDemo"
